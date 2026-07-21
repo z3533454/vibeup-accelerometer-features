@@ -47,3 +47,28 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Private configuration and credentials
+.Renviron
+.env
+config.local.R
+config.yml
+
+# Raw and participant-level data
+data/
+raw-data/
+*.csv
+*.parquet
+*.feather
+
+# Generated outputs
+outputs/
+results/
+
+# Additional R workspace files
+*.RData
+*.rds
+
+# Logs and temporary files
+*.log
+*.tmp
