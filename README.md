@@ -5,7 +5,7 @@ Braund, T. A., Bal, D., du Toit, A., Zheng, W.-Y., Duong, B., Nguyen, D., Berk, 
 
 ## Citation
 
-If you use this code, please cite:
+If using or adapting this code, please cite:
 
 Braund, T. A., Bal, D., du Toit, A., Zheng, W.-Y., Duong, B., Nguyen, D., Berk, J., Hoon, L., Cameron, S., Venkatesh, S., Christensen, H., Newby, J., Gupta, S., & Whitton, A. E. (2026). *vibeup-accelerometer-features* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22824843
 
