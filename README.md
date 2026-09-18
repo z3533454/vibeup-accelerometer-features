@@ -7,6 +7,6 @@ Braund, T. A., Bal, D., du Toit, A., Zheng, W.-Y., Duong, B., Nguyen, D., Berk, 
 
 If you use this code, please cite:
 
-Braund, T. A. (2026). *vibeup-accelerometer-features* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22824843
+Braund, T. A., Bal, D., du Toit, A., Zheng, W.-Y., Duong, B., Nguyen, D., Berk, J., Hoon, L., Cameron, S., Venkatesh, S., Christensen, H., Newby, J., Gupta, S., & Whitton, A. E. (2026). *vibeup-accelerometer-features* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22824843
  
 This work is funded in part by the Wellcome Trust [grant number: 303030/Z/23/Z].
